@@ -9,6 +9,12 @@ import org.junit.runner.RunWith;
 
 import static org.junit.Assert.*;
 
+
+
+// Context of the app
+
+
+
 @RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
     @Test
